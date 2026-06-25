@@ -1,0 +1,12 @@
+# Ignorar el archivo de datos pesados
+*.csv
+*.xlsx
+
+# Ignorar carpetas de entorno virtual (si creaste uno)
+.venv/
+venv/
+env/
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+__pycache__/
