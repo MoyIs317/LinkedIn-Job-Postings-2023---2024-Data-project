@@ -32,15 +32,13 @@ Para **Data Analyst** tenemos que las palabras más presentes son Data, experien
 ![Nube de Palabras](imagenes/wc_da.png)
 De la misma forma para los pots de **Data Scientist** las palabras Data y experience estan presentes y aparece Machine Learning y Team con un numero conciderable de veces.
 ![Nube de Palabras](imagenes/wc_ds.png)
-<<<<<<< HEAD
 
 ### 3. Top Industrias
-Otro aspecto interesante surge a la hora de analizar el tipo de industrias que realizan los posts, pues también podemos visualizar diferencias entre **Data Analyst** y **Data Scientist**, pues la industria de servicios y consita en TI es la que postea más ofertas para Data analyst, pero por otro lado la industria de servicios financieros oferta más vacantes para Data Scientist.
+Otro aspecto interesante surge a la hora de analizar el tipo de industrias que realizan los posts, pues también podemos visualizar diferencias entre **Data Analyst** y **Data Scientist**, pues la industria de servicios y consulta en TI es la que postea más ofertas para Data analyst, pero por otro lado la industria de servicios financieros oferta más vacantes para Data Scientist.
 ![top Industrias DA](imagenes/top_in_da.png)
 
 ![top Industrias DS](imagenes/top_in_ds.png)
-=======
->>>>>>> 1da49a0d8eace4e863a5da7b366e40a39c4e6902
+
 
 ## 🛠️ Tecnologías Utilizadas
 - **Lenguaje:** Python 3.x
