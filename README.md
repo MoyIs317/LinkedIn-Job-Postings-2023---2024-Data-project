@@ -14,13 +14,24 @@ El objetivo principal es transformar descripciones de puestos de trabajo en form
 - **Lematización con SpaCy:** Consolidación de palabras complejas a su raíz morfológica en inglés/español utilizando modelos avanzados de NLP (`en_core_web_sm`).
 
 ## 📊 Visualizaciones Incluidas
-### 1. Herramientas más solicitadas (Matplotlib & Seaborn)
-Aquí se identifican el volumen de menciones exactas de tecnologías core como SQL, Python, Excel y R mediante límites de palabras exactas (`\b`).
-`![Gráfico de Barras](images/grafico_barras.png)`
+### 1. Skills más frecuentes en los post de Data Analyst
+Las  dos Skills más presentes en los posts analizados fueron **Information Tecnology**  y **Analyst** esto era algo que me esperaba, lo que me sorprendio fue al momento de compararla con las skills en los post de **Data Scientist** pues no esperaba que en estos la skill de **Engineering** fuera tan dominante. Esto lo podemos ver en los gráficos siguientes:
+
+![Skills Data Analyst](imagenes/skills_da.png)
+![Skills Data Analyst](imagenes/skills_ds.png)
+
+### 2. Herramientas más solicitadas (Matplotlib & Seaborn)
+Aquí se identifican el volumen de menciones exactas de tecnologías core como SQL, Python, Excel y R mediante límites de palabras exactas. Primero lo analizamos en los post referentes a **Data Analyst**, obteniendo los siguientes resultados mostrados en la gráfica.
+![Tools Data Analyst](imagenes/tools_da.png)
+Podemos observar que Excel es sin duda la herramineta más pedida, sin embargo para los post de **Data Scientist** tenemos que Python se lleva la corona.
+![Tools Data Scientist](imagenes/tools_ds.png)
 
 ### 2. Nube de Palabras Clave (WordCloud)
-Resultado visual de los términos dominantes tras el pipeline de lematización.
-`![Nube de Palabras](images/wordcloud.png)`
+Resultado visual de los términos dominantes en los post.
+Para **Data Analyst** tenemos que las palabras más presentes son Data, experience, bussines.
+![Nube de Palabras](imagenes/wc_da.png)
+De la misma forma para los pots de **Data Scientist** las palabras Data y experience estan presentes y aparece Machine Learning y Team con un numero conciderable de veces.
+![Nube de Palabras](imagenes/wc_ds.png)
 
 ## 🛠️ Tecnologías Utilizadas
 - **Lenguaje:** Python 3.x
