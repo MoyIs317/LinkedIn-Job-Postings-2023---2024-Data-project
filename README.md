@@ -34,7 +34,8 @@ De la misma forma para los pots de **Data Scientist** las palabras Data y experi
 ![Nube de Palabras](imagenes/wc_ds.png)
 
 ### 3. Top Industrias
-Otro aspecto interesante surge a la hora de analizar el tipo de industrias que realizan los posts, pues también podemos visualizar diferencias entre **Data Analyst** y **Data Scientist**, pues la industria de servicios y consulta en TI es la que postea más ofertas para Data analyst, pero por otro lado la industria de servicios financieros oferta más vacantes para Data Scientist.
+Otro aspecto de interés surge al analizar el tipo de industrias que publican las ofertas de empleo, ya que también se observan diferencias entre los perfiles de **Data Analyst** y **Data Scientist**. En el caso de **Data Analyst**, la industria de servicios y consultoría en tecnologías de la información concentra el mayor número de publicaciones. En contraste, para **Data Scientist**, la industria de servicios financieros es la que ofrece más vacantes en comparación con el resto de los sectores analizados. Estas diferencias pueden apreciarse en los siguientes gráficos.
+
 ![top Industrias DA](imagenes/top_in_da.png)
 
 ![top Industrias DS](imagenes/top_in_ds.png)
