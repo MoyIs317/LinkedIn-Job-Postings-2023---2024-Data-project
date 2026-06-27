@@ -23,18 +23,18 @@ Las  dos Skills más presentes en los posts analizados fueron **Information Tecn
 ### 2. Herramientas más solicitadas (Matplotlib & Seaborn)
 Aquí se identifican el volumen de menciones exactas de tecnologías core como SQL, Python, Excel y R mediante límites de palabras exactas. Primero lo analizamos en los post referentes a **Data Analyst**, obteniendo los siguientes resultados mostrados en la gráfica.
 ![Tools Data Analyst](imagenes/tools_da.png)
-Podemos observar que Excel es sin duda la herramineta más pedida, sin embargo para los post de **Data Scientist** tenemos que Python se lleva la corona.
+Podemos observar que SQL es la herramienta más pedida, sin embargo para los post de **Data Scientist** tenemos que Python se lleva la corona.
 ![Tools Data Scientist](imagenes/tools_ds.png)
 
 ### 2. Nube de Palabras Clave (WordCloud)
 Resultado visual de los términos dominantes en los post.
-Para **Data Analyst** tenemos que las palabras más presentes son Data, experience, bussines.
+Para **Data Analyst** tenemos que las palabras más presentes son Data, data analyst, bussines, support.
 ![Nube de Palabras](imagenes/wc_da.png)
-De la misma forma para los pots de **Data Scientist** las palabras Data y experience estan presentes y aparece Machine Learning y Team con un numero conciderable de veces.
+De la misma forma para los pots de **Data Scientist** las palabras Data, data analyst estan presentes y aparece Machine Learning y Team con un numero conciderable de veces.
 ![Nube de Palabras](imagenes/wc_ds.png)
 
 ### 3. Top Industrias
-Otro aspecto de interés surge al analizar el tipo de industrias que publican las ofertas de empleo, ya que también se observan diferencias entre los perfiles de **Data Analyst** y **Data Scientist**. En el caso de **Data Analyst**, la industria de servicios y consultoría en tecnologías de la información concentra el mayor número de publicaciones. En contraste, para **Data Scientist**, la industria de servicios financieros es la que ofrece más vacantes en comparación con el resto de los sectores analizados. Estas diferencias pueden apreciarse en los siguientes gráficos.
+Otro aspecto de interés surge al analizar el tipo de industrias que publican las ofertas de empleo, ya que también se observan diferencias entre los perfiles de **Data Analyst** y **Data Scientist**. En el caso de **Data Analyst**, la industria de servicios y consultoría en tecnologías de la información concentra el mayor número de publicaciones junto a desarrollo de software. En contraste, para **Data Scientist**, aún la industriade servicios y consultoría en tecnologías de la información concentra el mayor número de publicaciones sin embargo servicios financieros se posiciona en segundo lugar. Estas diferencias pueden apreciarse en los siguientes gráficos.
 
 ![top Industrias DA](imagenes/top_in_da.png)
 
